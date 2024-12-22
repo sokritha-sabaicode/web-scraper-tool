@@ -1,0 +1,6 @@
+streamlit
+langchain
+langchain-openai
+html2text
+tiktoken
+python-dotenv
